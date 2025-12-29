@@ -27,9 +27,6 @@ Feature types: numeric, categorical, behavioral, temporal
 
 Presence of encoded missing values and domain-specific anomalies
 
-## Data Availability
-
-Due to licensing and confidentiality restrictions, the dataset is not included in this repository. Instructions for downloading the dataset via the Kaggle API are provided inside the notebook.
 
 ## Key Challenges Addressed
 
